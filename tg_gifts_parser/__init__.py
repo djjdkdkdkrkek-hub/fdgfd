@@ -1,0 +1,1 @@
+"""Telegram gifts parser package."""
